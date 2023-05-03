@@ -1,4 +1,4 @@
-# Workout-App-Frontend
+# 🛠 Frontend Технологии:
 
 ## Getting Started with Create React App
 
