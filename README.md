@@ -32,6 +32,7 @@
 - Выполнение тренировки
 - Анимация + фикс багов
 
+/*
 ## Running Locally
 
 Clone project
@@ -58,3 +59,4 @@ Start development server
 ```bash
   npm run dev
 ```
+*/
